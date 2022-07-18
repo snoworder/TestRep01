@@ -1,0 +1,9 @@
+1. install python
+https://www.python.org/downloads/
+2. win r, cmd, pip install jupyterlab
+2a. if does not work, locate python script directory
+follow method 2 on:
+https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/
+
+3. cmd, jupyter-lab, enable extensions in jupyterlab
+4. instal git in jupyterlab: pip install jupyterlab-git
