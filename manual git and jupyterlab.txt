@@ -1,7 +1,7 @@
 1. install python
 https://www.python.org/downloads/
 2. win r, cmd, pip install jupyterlab
-2a. if does not work, locate python script directory
+2a. if does not work, locate python script directory (C:\Users\Sauber\AppData\Local\Programs\Python\Python310\Scripts)
 follow method 2 on:
 https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command/
 
