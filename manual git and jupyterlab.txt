@@ -14,3 +14,6 @@ pull to update files
 6. git - add remote depositary - to uploag files
 go to git icon, click on plus, comment and commit
 push to remote
+
+help video
+https://www.youtube.com/watch?v=ncmD9B-fddg
