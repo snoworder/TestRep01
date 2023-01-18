@@ -11,7 +11,8 @@ https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command
 5. git - clone repository to get files
 pull to update files
 
-*you initialize local repository and then link it to a git one
+you can do ot in cmd git clone https://github.com/snoworder/Quant-Andromeda.git
+*you initialize local repository and then link it to a git one or you clone exesting one from git 
 
 6. git - add remote depositary - to uploag files
 go to git icon, click on plus, comment and commit
