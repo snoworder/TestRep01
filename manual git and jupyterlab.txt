@@ -11,6 +11,8 @@ https://appuals.com/fix-pip-is-not-recognized-as-an-internal-or-external-command
 5. git - clone repository to get files
 pull to update files
 
+*you initialize local repository and then link it to a git one
+
 6. git - add remote depositary - to uploag files
 go to git icon, click on plus, comment and commit
 push to remote
