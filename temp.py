@@ -1,9 +1,9 @@
-#blpapi
+#1 blpapi
 pip install --index-url=https://bcms.bloomberg.com/pip/simple blpapi
 import blpapi
 
 
-#xbbg
+# 1 xbbg
 pip install xbbg
 from xbbg import blp
 
